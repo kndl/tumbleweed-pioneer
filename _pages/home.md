@@ -12,6 +12,6 @@ social: false  # includes social icons at the bottom of the page
 
 <figure>
     <img src="/assets/img/banner.png" alt="An artwork representation of a desert landscape with a stylized Joshua Tree, cacti, yucca plants, and sandstone hills" style="width:100%" />
-    <figcaption>Artwork by <a href="https://www.faithwilliamsart.com/" rel="external nofollow noopener" target="_blank">Faith Williams Art</a>.</figcaption>
+    <figcaption>Artwork by <a href="https://www.faithwilliamsart.com/" rel="external nofollow noopener" target="_blank">Faith Williams Art</a></figcaption>
 </figure>
 
