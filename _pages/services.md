@@ -43,9 +43,6 @@ Fees fall into three broad categories
 * By project: For books and larger collections or bodies of work
 * Communication coach: Hourly or retainer fee for ongoing consultation and coaching
 
-Details available upon request. [LINK to contact info] **Ask me about bartering! 
-
-
 ## Recent projects 
 * Online couples therapy materials 
 * Software engineering process documentation 
