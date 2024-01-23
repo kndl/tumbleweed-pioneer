@@ -15,6 +15,8 @@ Tumbleweed Pioneer supports individuals and businesses in the following ways:
 * Identifying the best platform for content distribution; technical implementation of online content 
 * Communications coaching  
 
+The [Tumbleweed Pioneer blog](https://tumbleweedpioneer.substack.com/) provides additional services for subscribers.
+
 
 ## Content types
 * Articles, blog entries, white papers 
