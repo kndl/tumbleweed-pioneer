@@ -10,5 +10,4 @@ nav_order: 3
 
 Questions? Reach out to tumbleweedpioneer AT gmail DOT com with general inquiries. 
 
-Ready to connect? Book a meeting services will be available in February 2024! 
-
+<iframe src="https://app.acuityscheduling.com/schedule.php?owner=31491465" title="Schedule Appointment" width="100%" height="800" frameBorder="0" id="acuity-scheduler"></iframe><script src="https://embed.acuityscheduling.com/js/embed.js" type="text/javascript"></script>
