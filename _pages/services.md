@@ -46,9 +46,10 @@ Fees fall into three broad categories
 * Communication coach: Hourly or retainer fee for ongoing consultation and coaching
 
 ## Recent projects 
-* Online couples therapy materials 
-* Software engineering process documentation 
-* Memoir about overcoming emotional trauma from adolescence
+* Grant writing, communications strategy, and press liaison for [Empathy Theatre Project](https://empathytheatreproject.org/)
+* Editing, ghostwriting for troubled-teen industry survivor memoir
+* Newsletter strategy and content writing for executive coaching service
+* Business and process process documentation for software engineering startup
 * Visual artist statement and supporting materials for shows and portfolio
 
 References and writing samples available upon request. Contact: tumbleweedpioneer AT gmail DOT com 
