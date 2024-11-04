@@ -15,7 +15,6 @@ Tumbleweed Pioneer supports individuals and businesses in the following ways:
 * Identifying the best platform for content distribution; technical implementation of online content 
 * Communications coaching  
 
-The [Tumbleweed Pioneer blog](https://tumbleweedpioneer.substack.com/) provides additional services for subscribers.
 
 
 ## Content types
@@ -35,22 +34,22 @@ The [Tumbleweed Pioneer blog](https://tumbleweedpioneer.substack.com/) provides 
 * **Entrepreneurs** who want to shape their messages to best reflect their mission
 * **Healers, therapists, facilitators** who use content to deepen the reach and connection they have with their clients and audience
 * **Artists** who want to translate their creative vision into words as they seek to communicate intent
-* **Technologists and engineers** who need sources and sets of documentation that buttress their systems’ processes
+* **Technologists & engineers** who need sources and sets of documentation that buttress their systems’ processes
 
 
 ## Pricing 
 Fees fall into three broad categories
-* Hourly: For initial and ongoing consultation, for “destination coordination” conversations 
+* Hourly: For initial and ongoing consultation
 * By length / number of words: For articles, blog posts, one-off documents
 * By project: For books and larger collections or bodies of work
 * Communication coach: Hourly or retainer fee for ongoing consultation and coaching
 
 ## Recent projects 
-* Grant writing, communications strategy, and press liaison for [Empathy Theatre Project](https://empathytheatreproject.org/)
-* Editing, ghostwriting for troubled-teen industry survivor memoir
-* Newsletter strategy and content writing for executive coaching service
-* Business and process process documentation for software engineering startup
+* Grant writing for local non-profit organizations 
+* Editing, ghostwriting for "troubled teen industry" survivor memoir
+* Newsletter strategy and content writing for executive coaches and therapists
+* Business and process documentation for software engineering startup
 * Visual artist statement and supporting materials for shows and portfolio
 
-References and writing samples available upon request. Contact: tumbleweedpioneer AT gmail DOT com 
+References, writing samples, and pricing details available upon request. Contact: tumbleweedpioneer AT gmail DOT com 
 
