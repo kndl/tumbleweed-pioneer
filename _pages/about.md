@@ -11,7 +11,8 @@ Tumbleweed Pioneer is a writing, editing, and communication services business th
 
 Emiliane Nava founded Tumbleweed Pioneer in 2023 in response to increased demand for her writing and communication coaching services. Emiliane’s background includes a PhD in Linguistics, a stint as a journalist in foreign countries, and a fifteen-year career in the tech industry.
 
-Check out Emiliane's Tumbleweed Pioneer Substack. 
+Check out Emiliane's [Tumbleweed Pioneer Substack](https://tumbleweedpioneer.substack.com/).
+
 
 
 ## Mission 
