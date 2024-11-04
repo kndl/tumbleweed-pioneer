@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: workshop
 permalink: /workshops/
 title: workshops
 nav: true
@@ -8,12 +8,13 @@ nav_order: 4
 
 # My
 # life
-# prompted ____________.
+# prompted
+# \_\_\_\_\_\_\_\_\_\_\_\_.
 
 If you are reading this now, it’s because you want someone to read you. You have a message to share, a story to tell, a compulsion to get something out that you think is buried within. At this point in time, I am inviting you to learn to listen to yourself, and to gain comfort in seeing your words meet a surface outside of you. This invitation is especially for those who have never done a writing exercise before. And even if you end up painting, sculpting, or knitting instead of sticking with writing, the practice of writing responses to prompts will kick-start your creative process.  
 
 
-### Who you are ____________ 
+### Who you are \_\_\_\_\_\_\_\_\_\_\_\_ 
 You are someone who has a desire to express themselves. Period. It matters not if your writing becomes a best-selling memoir or you craft your words into customized poetry for the people in your life or if you write the neighborhood’s juiciest diary entries and promptly bury them in the garden. Or perhaps writing is simply a step you'll take in your exploration of another creative, artistic pursuit. The first step is to connect with your content. Additional steps will emerge as you create your path. 
 
 This workshop will be tremendously helpful if you …\
@@ -24,31 +25,33 @@ This workshop will be tremendously helpful if you …\
 \_\_\_ are looking for a creative community and to build relationships with similar sojourners who are exploring their creativity and writing practice\
 \_\_\_ want to develop chops, skills, and confidence in expressing yourself
 
-### What we’ll do together ____________ 
+### What we’ll do together \_\_\_\_\_\_\_\_\_\_\_\_ 
 Together we will use a series of prompts and prompt-based exercises to generate a body of content - your content, representing your perspective on your experience. The point of these exercises is to develop the practice of regular writing and encourage confidence in your unique style. 
 
-### Who you’ll be prompted to become ____________ 
+### Who you’ll be prompted to become \_\_\_\_\_\_\_\_\_\_\_\_ 
 My goal is to create a transformative experience. I have crafted a process designed to increase your confidence in your ability to express yourself with greater clarity. Through this process you will gain a deep understanding of what might be holding you back in your creative pursuit. And you will walk forward from this experience with the tools you need to build and nurture your creative path. 
 
-### How we’ll do it ____________ 
-Daily practice
+### How we’ll do it \_\_\_\_\_\_\_\_\_\_\_\_ 
+
+#### Daily practice
+
 Each morning for one month you will receive a writing prompt; I recommend spending at least 10 minutes on your response. If you would like to receive comments or feedback, I will happily provide those each day. 
 
-### Weekly meetings 
+#### Weekly meetings 
 Each week for one month the participants in this workshop (10 maximum per cohort) will have the opportunity to meet virtually on Zoom for 1 hour. Each meeting will include a 10-minute overview message from me, a group activity, and time for sharing. I’m a big believer in community and the role that community plays in supporting creativity. So while these meetings are not at all “required,” they are fun, safe spaces to share, deepen our growth, and develop a creative network.
 
-### 1:1 session 
+#### 1:1 session 
 As a workshop participant, you’ll also get one, hour-long creative session with me. We’ll plan to schedule this towards the end of the workshop or once it has already concluded, so that we can talk about how your experience might prompt what comes next! 
 
-### Heaps of resources
+#### Heaps of resources
 In addition to the prompts, optional feedback, and weekly sessions, I will provide a list of references curated towards deepening your creative process. 
 
-### Who I am and why I’m doing this ____________ 
+### Who I am and why I’m doing this \_\_\_\_\_\_\_\_\_\_\_\_ 
 I’m Emily Nava, a writer who started her own writing business, Tumbleweed Pioneer, in January 2024. I created this workshop because a prompts-based writing method is what led to my own creative unblocking. I’ve written since I was a young child, but chose a career in the tech industry until I felt the pull grow stronger and stronger to commit to my creative calling. Now I work as a full-time writer, choosing the projects and clients that fulfill me. Prompts aren’t the only thing that contributed to my path, but they have been a huge part of it and I want to share the practice with others. 
 
 Through the process of working with my clients, I’ve developed a unique and easy way for people to start trusting themselves and their voice. And I am a firm believer that having more people in touch with their creative selves in this world is a great thing! It would be an honor to support you in your creative journey. 
 
-### Ready to commit? ____________ 
+### Ready to commit? \_\_\_\_\_\_\_\_\_\_\_\_ 
 Sign up for the dates and weekly meeting time that best suits you. The financial commitment is $400. The time commitment is at least 10 minutes a day of personal writing practice, 4 one-hour group meetings over the course of a month, plus a 1:1 meeting with me. The personal commitment is a valentine to your truest expression of self. 
 
 ### Included in this price: 
@@ -62,7 +65,7 @@ _\_\_\_ Loads of resources to inspire you along the way!
 ## FAQs
 
 ### What’s the deal with the prompts?
-A prompt is _________. A prompt is an invitation to be creative. A prompt is an open door that doesn’t care where you go once you’ve passed through. A prompt is a beginning. A prompt has no right answers. A prompt is make-believe until you respond. A prompt is magic once you do. 
+A prompt is \_\_\_\_\_\_\_\_\_. A prompt is an invitation to be creative. A prompt is an open door that doesn’t care where you go once you’ve passed through. A prompt is a beginning. A prompt has no right answers. A prompt is make-believe until you respond. A prompt is magic once you do. 
 
 A prompt invites spontaneity and asks you to take it seriously without requiring commitment. The idea behind the prompt method is that it gets you to loosen up and let go based on its unexpected nature. There is nothing prescriptive about the prompt, so let yourself be descriptive in your response. 
 

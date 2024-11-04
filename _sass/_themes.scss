@@ -91,3 +91,23 @@ html[data-theme='dark'] {
     display: block;
   }
 }
+
+// Workshop stuff
+.workshop {
+  h1 {
+    text-align: right;
+  }
+  h1, h2 {
+    color: #74b72e;
+  }
+  h3 {
+    color: #b76379;
+  }
+  h4, p {
+    color: #000000;
+  }
+}
+
+body.workshop {
+  background-color: #f9f6ee;
+}
