@@ -13,6 +13,8 @@ Emiliane Nava founded Tumbleweed Pioneer in 2023 in response to increased demand
 
 Check out Emiliane's [Tumbleweed Pioneer Substack](https://tumbleweedpioneer.substack.com/).
 
+Tumbleweed Pioneer is thrilled to announce the [My life prompted](https://mylifeprompted.com/) workshop! Sign up now for [January or February 2025 dates](https://mylifeprompted.com/). 
+
 
 
 ## Mission 
