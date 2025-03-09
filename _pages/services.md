@@ -8,33 +8,30 @@ nav_order: 2
 
 # Services 
 
-Tumbleweed Pioneer supports individuals and businesses in the following ways:
-* Crafting a voice that matches the form and content of communication needs
-* Creating content that captures the message 
-* Editing and organizing existing content (including the implementation of style guides)
-* Identifying the best platform for content distribution; technical implementation of online content 
-* Communications coaching  
+Tumbleweed Pioneer provides writing, editing, and communications coaching for the following clients: 
+
+* Writers & creatives
+* Female leaders & business executives 
+* Small businesses, startups, & entrepreneurs 
 
 
 
-## Content types
-* Articles, blog entries, white papers 
-* Non-fiction books: Biographies, memoirs, business-related content, etc. 
-* Business documentation: frameworks and processes, program and project management, career ladders, handbooks
+## Writers & creatives
+"There are so few spaces as an adult to come together with another person and get deep into the creative mindset. I think you have something special here! In order to have creative output, we need to input into ourselves. I felt fed after every meeting." - BB
+
+We support emerging and established creatives who are in need of editing or ghostwriting services for their writing projects. Past projects have included memoirs, nonfiction articles, blog-development support, and grant proposals for businesses.
 
 
-## How we work 
-* Investigate: We use a “discovery” approach to work backwards from your vision, mission, or goals. 
-* Coordinate: Once we understand the shape of your desired destination, we make a plan for how to arrive. 
-* Iterate: We have regular check-ins for review and feedback, working through drafts and refining as we go. 
-* Celebrate: Once we have a finished product, we take the final implementation steps. 
+## Female leaders & business executives
+"She can almost instantaneously make sense of problems and reflect them back to me in a way that makes me feel profoundly understood, which then helps me find clarity in my life. Every conversation I’ve ever had with her leaves me with more purpose and confidence." - LW
+
+With fifteen years experience as an executive in the tech industry, Emiliane knows how to support female leaders through communications coaching. She regularly works with female executives and business owners who have identified specific areas of communication for improvement as part of their continued professional growth. Together they work on refining and amplifying messages through a series of in-depth (and wildly entertaining!) activities. The result is a confident speaker with flexible tools for precise language suited for any context. 
 
 
-## Who we serve
-* **Entrepreneurs** who want to shape their messages to best reflect their mission
-* **Healers, therapists, facilitators** who use content to deepen the reach and connection they have with their clients and audience
-* **Artists** who want to translate their creative vision into words as they seek to communicate intent
-* **Technologists & engineers** who need sources and sets of documentation that buttress their systems’ processes
+## Small businesses, startups, & entrepreneurs 
+"Her level-headed advice has clarified business and personnel situations that felt like crazy tangles, and given me a confident way forward." - RO
+
+Emiliane has worked closely with entrepreneurs, startups, and small businesses who need expertise in crafting and scaling their message to ensure alignment across their mission and business model. One of her greatest strengths lies in analysing their current organizational systems and making recommendations to improve overall business health. 
 
 
 ## Pricing 
@@ -43,13 +40,6 @@ Fees fall into three broad categories
 * By length / number of words: For articles, blog posts, one-off documents
 * By project: For books and larger collections or bodies of work
 * Communication coach: Hourly or retainer fee for ongoing consultation and coaching
-
-## Recent projects 
-* Grant writing for local non-profit organizations 
-* Editing, ghostwriting for "troubled teen industry" survivor memoir
-* Newsletter strategy and content writing for executive coaches and therapists
-* Business and process documentation for software engineering startup
-* Visual artist statement and supporting materials for shows and portfolio
 
 References, writing samples, and pricing details available upon request. Contact: tumbleweedpioneer AT gmail DOT com 
 
