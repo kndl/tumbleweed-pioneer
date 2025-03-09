@@ -37,7 +37,7 @@ Emiliane has worked closely with entrepreneurs, startups, and small businesses w
 ## Pricing 
 Fees fall into three broad categories
 * Hourly: For initial and ongoing consultation
-* By length / number of words: For articles, blog posts, one-off documents
+* By length: For articles, blog posts, one-off documents
 * By project: For books and larger collections or bodies of work
 * Communication coach: Hourly or retainer fee for ongoing consultation and coaching
 
