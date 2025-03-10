@@ -1,14 +1,14 @@
 ---
 layout: default
-permalink: /book-a-meeting/
-title: book a meeting
+permalink: /contact/
+title: contact
 nav: true
 nav_order: 4
 ---
 
-# Book a meeting
+# Contact
 
-Ready to connect? Reach out to tumbleweedpioneer AT gmail DOT com to set up a meeting.
+Ready to connect? Reach out to tumbleweedpioneer AT gmail DOT com and we'll get back to you as soon as possible. 
 
 Our conversation might be about any of the following things:
 
