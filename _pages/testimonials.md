@@ -23,4 +23,4 @@ What I loved most [about the workshop] were the weekly meetings. I really felt l
 “Emily has been an incredible source of support throughout my memoir-writing process. Her regular meetings keep me on track, and her encouragement helps me navigate the emotional depth of my story with confidence. I couldn’t have done this without her!” - Rose Cardella, _Inside These White Walls_ 
 
 
-References available upon request. 
+#### References and writing samples available upon request.
