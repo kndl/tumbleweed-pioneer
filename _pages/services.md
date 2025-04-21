@@ -25,13 +25,13 @@ We support emerging and established creatives who are in need of editing or ghos
 ## Female leaders & business executives
 _"She can almost instantaneously make sense of problems and reflect them back to me in a way that makes me feel profoundly understood, which then helps me find clarity in my life. Every conversation I’ve ever had with her leaves me with more purpose and confidence." - LW_
 
-With fifteen years experience as an executive in the tech industry, Emiliane knows how to support female leaders through communications coaching. She regularly works with female executives and business owners who have identified specific areas of communication for improvement as part of their continued professional growth. Together they work on refining and amplifying messages through a series of in-depth (and wildly entertaining!) activities. The result is a confident speaker with flexible tools for precise language suited for any context. 
+With fifteen years experience as an executive in the tech industry, Emily Anne knows how to support female leaders through communications coaching. She regularly works with female executives and business owners who have identified specific areas of communication for improvement as part of their continued professional growth. Together they work on refining and amplifying messages through a series of in-depth (and wildly entertaining!) activities. The result is a confident speaker with flexible tools for precise language suited for any context. 
 
 
 ## Small businesses, startups, & entrepreneurs 
 _"Her level-headed advice has clarified business and personnel situations that felt like crazy tangles, and given me a confident way forward." - RO_
 
-Emiliane has worked closely with entrepreneurs, startups, and small businesses who need expertise in crafting and scaling their message to ensure alignment across their mission and business model. One of her greatest strengths lies in analysing their current organizational systems and making recommendations to improve overall business health. 
+Emily Anne has worked closely with entrepreneurs, startups, and small businesses who need expertise in crafting and scaling their message to ensure alignment across their mission and business model. One of her greatest strengths lies in analysing their current organizational systems and making recommendations to improve overall business health. 
 
 
 ## Pricing 
