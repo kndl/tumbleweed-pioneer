@@ -19,9 +19,10 @@ In addition to writing the [Tumbleweed Pioneer Substack](https://tumbleweedpione
 ### Things going on this year 
 
 Upcoming events:
-- April 26: Storytelling at [Boulder Story Collective](https://storycollective.org/)
 - May 5: Free, prompt-based writing workshop starts! (Virtual. Stay tuned for details!)
 - May 16: Hosting workshop session at [Boulder Startup Week](https://boulderstartupweek.com/)
+- <s>April 26</s> (Rescheduled for Fall): Storytelling at [Boulder Story Collective](https://storycollective.org/)
+
 
 Past events:
 - My life prompted creative writing workshop (Virtual, January - February 2025)
