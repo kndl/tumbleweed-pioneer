@@ -16,16 +16,18 @@ Emily Anne Nava founded Tumbleweed Pioneer in 2023 in response to increased dema
 
 In addition to writing the [Tumbleweed Pioneer Substack](https://tumbleweedpioneer.substack.com/), Emily Anne facilitates an in-person and  a virtual writers circle, and hosts writing and creative workshops. Check out upcoming dates and past themes: [My life prompted workshop](https://mylifeprompted.com/)
 
-### Things going on this year 
+### Things going on in 2025
 
 Upcoming events:
-- May 5: Free, prompt-based writing [workshop starts](https://mylifeprompted.com/register)! (Sign up to start any Monday in May!)
-- May 16: Hosting workshop session at [Boulder Startup Week](https://boulderstartupweek.com/)
+- July 6: In-person writing events & writing booth for TinkerFair at [TinkerMill](https://tinkermill.org/)
 - <s>April 26</s> (Rescheduled for Fall): Storytelling at [Boulder Story Collective](https://storycollective.org/)
 
 
 Past events:
 - My life prompted creative writing workshop (Virtual, January - February 2025)
+- Month of May prompts: Free, prompt-based writing [workshop](https://mylifeprompted.com/register)!
+- May 16: Facilitated workshop session at [Boulder Startup Week](https://boulderstartupweek.com/)
+
 
 
 
