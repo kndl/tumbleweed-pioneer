@@ -19,7 +19,9 @@ In addition to writing the [Tumbleweed Pioneer Substack](https://tumbleweedpione
 ### Things going on in 2025
 
 Upcoming events:
-- July 6: In-person writing events & writing booth for TinkerFair at [TinkerMill](https://tinkermill.org/)
+- August: Virtual "As it turns out ..." prompt-based workshop through [My life prompted workshop](https://mylifeprompted.com/)
+- August 26: In-person card & letter writing workshop at [Wolf & Wren Press](https://wolfandwren.com/)
+- September 9: In-person creative journaling workshop at [Wolf & Wren Press](https://wolfandwren.com/)
 - <s>April 26</s> (Rescheduled for Fall): Storytelling at [Boulder Story Collective](https://storycollective.org/)
 
 
