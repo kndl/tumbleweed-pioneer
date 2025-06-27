@@ -28,7 +28,7 @@ Upcoming events:
 Past events:
 - My life prompted creative writing workshop (Virtual, January - February 2025)
 - Month of May prompts: Free, prompt-based writing [workshop](https://mylifeprompted.com/register)!
-- May 16: Facilitated workshop session at [Boulder Startup Week](https://boulderstartupweek.com/)
+- May 16: In-person writing workshop session at [Boulder Startup Week](https://boulderstartupweek.com/)
 
 
 
