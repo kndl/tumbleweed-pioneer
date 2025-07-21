@@ -22,13 +22,13 @@ Upcoming events:
 - August: "As it turns out ..." virtual, prompt-based writing workshop through [My life prompted workshop](https://mylifeprompted.com/)
 - August 26: In-person card & letter writing workshop at [Wolf & Wren Press](https://wolfandwren.com/)
 - September 9: In-person creative journaling workshop at [Wolf & Wren Press](https://wolfandwren.com/)
-- <s>April 26</s> (Rescheduled for Fall): Storytelling at [Boulder Story Collective](https://storycollective.org/)
+- October 25: Storytelling at [Unsent Show]([https://storycollective.org/](https://www.eventbrite.com/e/unsent-death-show-tickets-1477922258259?aff=oddtdtcreator))
 
 
 Past events:
 - My life prompted creative writing workshop (Virtual, January - February 2025)
 - Month of May prompts: Free, prompt-based writing [workshop](https://mylifeprompted.com/register)!
-- May 16: In-person writing workshop session at [Boulder Startup Week](https://boulderstartupweek.com/)
+- May 16: Workshop session at [Boulder Startup Week](https://boulderstartupweek.com/)
 
 
 
