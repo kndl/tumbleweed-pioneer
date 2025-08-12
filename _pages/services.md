@@ -39,7 +39,7 @@ Fees fall into three broad categories
 * Hourly: For initial and ongoing consultation
 * By length: For articles, blog posts, one-off documents
 * By project: For books and larger collections or bodies of work
-* Communication coach: Hourly or retainer fee for ongoing consultation and coaching
+* Communication coaching: Hourly or retainer fee for ongoing consultation and coaching
 
 References, writing samples, and pricing details available upon request. Contact: tumbleweedpioneer AT gmail DOT com 
 
