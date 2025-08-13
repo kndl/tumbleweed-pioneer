@@ -19,7 +19,7 @@ In addition to writing the [Tumbleweed Pioneer Substack](https://tumbleweedpione
 ### Things going on in 2025
 
 Upcoming events:
-- August: "As it turns out ..." virtual, prompt-based writing workshop through [My life prompted workshop](https://mylifeprompted.com/)
+- August: "Re-writing Your Career Moves" virtual, prompt-based writing workshop through [My life prompted workshop](https://mylifeprompted.com/)
 - August 26: In-person card & letter writing workshop at [Wolf & Wren Press](https://wolfandwren.com/)
 - September 9: In-person creative journaling workshop at [Wolf & Wren Press](https://wolfandwren.com/)
 - October 25: Storytelling at [Unsent Show]([https://storycollective.org/](https://www.eventbrite.com/e/unsent-death-show-tickets-1477922258259?aff=oddtdtcreator))
