@@ -19,7 +19,7 @@ In addition to writing the [Tumbleweed Pioneer Substack](https://tumbleweedpione
 ### Things going on in 2025
 
 Upcoming events:
-- October 25: Storytelling at [Unsent Show]([https://storycollective.org/](https://www.eventbrite.com/e/unsent-death-show-tickets-1477922258259?aff=oddtdtcreator))
+- October 25: Storytelling at [Unsent Show](https://www.unsentshow.com/)
 - November 13: _Look Ahead with Lois_ Salon presentation 
 
 Past events:
