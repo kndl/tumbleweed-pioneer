@@ -20,7 +20,7 @@ In addition to writing the [Tumbleweed Pioneer Substack](https://tumbleweedpione
 
 Upcoming events:
 - October 25: Storytelling at [Unsent Show](https://www.unsentshow.com/)
-- November 13: _Look Ahead with Lois_ [Salon presentation](https://communications.blankrome.com/31/3585/compose-email/invitation---oft.asp?sid=blankform)
+- November 13: _Look Ahead with Lois_ [Salon presentation](https://www.blankrome.com/events/letters-let-go-healing-power-expressive-writing)
 
 Past events:
 - My life prompted creative writing workshop (Virtual, January - February 2025)
