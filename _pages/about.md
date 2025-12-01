@@ -19,7 +19,7 @@ In addition to writing the [Tumbleweed Pioneer Substack](https://tumbleweedpione
 ### Things going on in 2025
 
 Upcoming events:
-- November 17: Guest on [SideDish podcast](https://sidedishlongmont.com/)
+- November 17: Guest on [SideDish podcast](https://open.spotify.com/show/65W0Sf6I4qc8Zf3zaDryON?si=9Ex3vh4_T1-sVrTON4Jd_A)
 
 Past events:
 - My life prompted creative writing workshop (Virtual, January - February 2025)
