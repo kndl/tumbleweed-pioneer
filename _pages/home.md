@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: Writing, editing, communication services
+subtitle: Narrative practices
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
