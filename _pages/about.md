@@ -16,20 +16,17 @@ I'm Emily Anne Nava, and I founded Tumbleweed Pioneer in 2023 in response to an 
 
 In addition to writing the [Tumbleweed Pioneer Substack](https://tumbleweedpioneer.substack.com/), I facilitate an in-person and a virtual writers circle, and host writing and creative workshops. Check out upcoming dates and past themes: [My life prompted workshop](https://mylifeprompted.com/)
 
-### Things going on in 2025
+### Things going on in 2026
 
 Upcoming events:
-- November 17: Guest on [SideDish podcast](https://open.spotify.com/show/65W0Sf6I4qc8Zf3zaDryON?si=9Ex3vh4_T1-sVrTON4Jd_A)
+- February 7: The History & Art of Letter Writing at [Fireside Ink Writers Workshop](https://givebutter.com/c6ZLQI)
+- February 19: Junk Journaling Workshop at [Longmont Public Library](https://longmontcolorado.gov/event/adults-creative-night-the-library-10/)
+- March 19: Letter Writing Workshop at [Longmont Public Library](https://longmontcolorado.gov/event/adults-creative-night-the-library-11/)
+- April 26:  Junk Journaling Workshop at [Fireside Ink Writers Workshop](https://www.firesideinkwriters.org/workshops-events/)
 
 Past events:
-- My life prompted creative writing workshop (Virtual, January - February 2025)
-- Month of May prompts: Free, prompt-based writing [workshop](https://mylifeprompted.com/register)!
-- May 16: Workshop session at [Boulder Startup Week](https://boulderstartupweek.com/)
-- August: "Re-writing Your Career Moves" virtual, prompt-based writing workshop through [My life prompted workshop](https://mylifeprompted.com/)
-- August 26: In-person card & letter writing workshop at [Wolf & Wren Press](https://wolfandwren.com/)
-- September 27: In-person creative journaling workshop at [Wolf & Wren Press](https://wolfandwren.com/)
-- October 25: Storytelling at [Unsent Show](https://www.unsentshow.com/)
-- November 13: _Look Ahead with Lois_ [Salon presentation](https://www.blankrome.com/events/letters-let-go-healing-power-expressive-writing)
+- January 31: "Love Letters" Valentine Writing Event at [Juniper Goods](https://junipergoods.co/) (in collaboration with [Wolf & Wren](https://wolfandwren.com/)
+
 
 
 
