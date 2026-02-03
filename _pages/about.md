@@ -25,7 +25,7 @@ Upcoming events:
 - April 26:  Junk Journaling Workshop at [Fireside Ink Writers Workshop](https://www.firesideinkwriters.org/workshops-events/)
 
 Past events:
-- January 31: "Love Letters" Valentine Writing Event at [Juniper Goods](https://junipergoods.co/) (in collaboration with [Wolf & Wren](https://wolfandwren.com/)
+- January 31: "Love Letters" Valentine Writing Event at [Juniper Goods](https://junipergoods.co/) (in collaboration with [Wolf & Wren](https://wolfandwren.com/))
 
 
 
