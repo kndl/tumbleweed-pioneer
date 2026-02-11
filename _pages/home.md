@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: A writing & Narrative Practices company
+subtitle: A Writing & Narrative Practices Company
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
