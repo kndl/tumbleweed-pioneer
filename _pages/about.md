@@ -19,13 +19,13 @@ In addition to writing the [Tumbleweed Pioneer Substack](https://tumbleweedpione
 ### Things going on in 2026
 
 Upcoming events:
-- February 19: Junk Journaling Workshop at [Longmont Public Library](https://longmontcolorado.gov/event/adults-creative-night-the-library-10/)
 - March 19: Letter Writing Workshop at [Longmont Public Library](https://longmontcolorado.gov/event/adults-creative-night-the-library-11/)
 - April 2: Spring Forth! Creative Journaling Workshop at [Wolf & Wren](https://wolfandwren.com/)
-- April 26:  Junk Journaling Workshop at [Fireside Ink Writers Workshop](https://www.firesideinkwriters.org/workshops-events/)
+- April 26: Junk Journaling Workshop at [Fireside Ink Writers Workshop](https://www.firesideinkwriters.org/workshops-events/)
 
 Past events:
 - January 31: "Love Letters" Valentine Writing Event at [Juniper Goods](https://junipergoods.co/) (in collaboration with [Wolf & Wren](https://wolfandwren.com/))
+- February 19: Junk Journaling Workshop at [Longmont Public Library](https://longmontcolorado.gov/event/adults-creative-night-the-library-10/)
 
 
 
