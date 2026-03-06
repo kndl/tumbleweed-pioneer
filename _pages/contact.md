@@ -8,7 +8,7 @@ nav_order: 4
 
 # Contact
 
-Ready to tell your story? Those who are curious can [schedule a 15-minute intro call](https://tumbleweedpioneer.as.me/?appointmentType=90118161). Those who are ready can [schedule an hour-long session](https://tumbleweedpioneer.as.me/?appointmentType=58915373) at a rate of $150/hour.
+Ready to tell your story? Those who are curious can [schedule a 15-minute intro call](https://tumbleweedpioneer.as.me/?appointmentType=90118161). Those who are ready can [schedule an hour-long session](https://tumbleweedpioneer.as.me/?appointmentType=58915373).
 
 Please reach out here for all other inquires: tumbleweedpioneer AT gmail DOT com
 
