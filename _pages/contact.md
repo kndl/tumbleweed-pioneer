@@ -8,7 +8,7 @@ nav_order: 4
 
 # Contact
 
-Ready to tell your story? Schedule a 15-minute intro call or schedule a full, hour-long session.
+Ready to tell your story? [Schedule a 15-minute intro call or schedule a full, hour-long session.](https://tumbleweedpioneer.as.me/)
 
 Please reach out here for all other inquires: tumbleweedpioneer AT gmail DOT com
 
