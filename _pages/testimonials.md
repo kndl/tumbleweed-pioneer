@@ -3,7 +3,7 @@ layout: default
 permalink: /testimonials/
 title: testimonials
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 
 # Testimonials 
