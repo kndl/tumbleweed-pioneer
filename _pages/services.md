@@ -6,6 +6,8 @@ nav: true
 nav_order: 1
 ---
 
+{% include figure.html path="/assets/img/snake_icon.png" sizes="(min-width: 768px) 195px, 25vw" width="25%" class="style-img" alt="snake logo" %}
+
 # Services 
 
 Tumbleweed Pioneer provides writing, editing, and narrative-based coaching for the following clients:
@@ -34,7 +36,10 @@ _"Her level-headed advice has clarified business and personnel situations that f
 It is a high honor to work with entrepreneurs, startups, and small businesses. Together we focus on scaling their message through narrative practices that ensure alignment across their mission and business model. One of my greatest strengths lies in analysing a company’s current organizational systems, then making recommendations to improve overall business health through the stories that they tell inside and outside the company.
 
 
+{% include figure.html path="/assets/img/jackrabbit_icon.png" sizes="(min-width: 768px) 195px, 25vw" width="25%" class="style-img" alt="jackrabbit logo" %}
+
 ## Pricing 
+
 Fees fall into three broad categories
 * Hourly: For initial and ongoing consultation
 * By length: For articles, blog posts, one-off documents

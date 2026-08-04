@@ -27,6 +27,11 @@ ul {
   list-style-type: circle;
 }
 
+.main-content ul {
+  overflow: auto;
+  padding: 0 0 0 3em;
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
@@ -1080,4 +1085,9 @@ nav[data-toggle="toc"] {
 
 #toc-sidebar {
   z-index: 1;
+}
+
+.style-img {
+  float: left;
+  margin: 0 1rem 0 0;
 }
