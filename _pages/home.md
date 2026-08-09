@@ -34,9 +34,5 @@ Past events:
 - April 2: Spring Forth! Creative Journaling Workshop at [Wolf & Wren](https://wolfandwren.com/)
 - April 26: Junk Journaling Workshop at [Fireside Ink Writers Workshop](https://www.firesideinkwriters.org/workshops-events/)
 
-
-
-
-
-
+{% include figure.html path="/assets/img/nava_laughing.jpg" sizes="(min-width: 800px) 800px, 100vw" alt="Emily Nava laughing in a field" %}
 
