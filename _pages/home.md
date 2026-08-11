@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: A writing & communication services company
+subtitle: Writing // Editing // Narrative practices
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -10,7 +10,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-# Mission 
+<h1 style="color: #878763;">Mission</h1> 
 I believe that humans connect to one another through how they represent their experiences. My mission is to unite the individual or organization with their broader community through messages crafted with precision. Communication is a power available to everyone who is ready to welcome clarity. 
 
 # About
