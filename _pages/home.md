@@ -29,5 +29,4 @@ In addition to writing the [Tumbleweed Pioneer newsletter](https://tumbleweedpio
 
 {% include figure.html path="/assets/img/nava_laughing.jpg" sizes="(min-width: 800px) 800px, 100vw" alt="Emily Nava laughing in a field" %}
 <figcaption>Photo by <a href="https://nataliegrayphotographystyling.pic-time.com/portfolio" rel="external nofollow noopener" target="_blank">Natalie Gray Photography & Styling</a></figcaption>
-</figure>
 
