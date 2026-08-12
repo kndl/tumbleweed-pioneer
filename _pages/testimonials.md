@@ -8,16 +8,18 @@ nav_order: 2
 
 {% include figure.html path="/assets/img/coyote_icon.png" sizes="(min-width: 768px) 195px, 25vw" width="25%" class="style-img" alt="coyote logo" %}
 
-# Testimonials 
+<h1 style="color: #AE7D84;">Testimonials</h1> 
 
 Check out what current and previous clients have to say about Tumbleweed Pioneer …
 
-## From workshop participants … 
+<h2 style="color: #AE7D84;">From workshop participants …</h2> 
+
 "A few months ago I was in the middle of a job search and had seen a slowdown in activity in the previous few weeks. My wife informed me about Emily’s writing workshop and the benefits of a daily writing practice. As someone who has long lacked any literary inertia, I was simultaneously intrigued and skeptical of my ability to complete the process. Nonetheless, I registered for the 30-day workshop and first put fingers on my keyboard on Day 2. By Day 4, I was hooked! I found myself waking up seeking the daily writing prompt as a first action each morning and enjoyed the thinking each prompt stimulated. By the time I got to my first cup of coffee, I was able to capture my thoughts in writing much more fluidly than I ever thought possible. The daily practice really helped me realize the value in carving out time for thinking during the day - especially in the morning. I also recognized how reactive I had become in a world that constantly bombards me with inbound pieces of information and requests. Starting my day with a few moments of peace to collect my thoughts and capture them in writing was very energizing and set me up for greater productivity during the day. And the Magic - by day 20 I was in a process for a compelling opportunity, and ten days after the writing workshop I received an offer! Thank you, Emily, for the guidance and discovery that came with the workshop!" - John Donaldson
 
 "What I loved most [about the workshop] were the weekly meetings. I really felt like I got SO MUCH out of our conversations. The space you created in those hour segments was really special. I feel I connected with deeper parts of myself and learned more about you and your wisdom! It also felt like a very safe space to get vulnerable and share words with a fellow creative. While I believe the intended purpose of the course was to help me get loose and writing without pressure, I actually found the sessions to be a form of healing specifically for the creative soul. There are so few spaces as an adult to come together with another person and get deep into the creative mindset. I think you have something special here! In order to have creative output, we need to input into ourselves. I felt fed after every meeting." - Berlin Burkhart, [berlinmichelleart](https://www.instagram.com/berlinmichelleart/?igsh=MXhvd3h0bmYzaWRvag%3D%3D#)
 
-## From business owners … 
+<h2 style="color: #AE7D84;">From business owners …</h2> 
+
 “Emily is an incredible communicator, and makes me feel like one too. Her level-headed advice has clarified business and personnel situations that felt like crazy tangles, and given me a confident way forward. She's an incredible listener, and asks questions that help me get to the heart of what's going on. I can tell that she honestly wants to help, and that she's invested in helping me succeed in my own way, while never pushing me to change who I am. I always come away from our talks feeling supported and heard, and with a better understanding of my own thinking and direction.” - Ros O’Brien, Founder & Owner of [Friendly City Clay & Art Center](https://www.friendlycityclay.com/)
 
 “There’s something so incredibly special about my interactions with Emily that I can’t quite even put into words - which is,  ironically, why I've needed her. She has this profound intuition and a natural way of quickly understanding my complicated ideas and emotions.  She can almost instantaneously make sense of problems and reflect them back to me in a way that makes me feel profoundly understood, which then helps me find clarity in my life. Every conversation I’ve ever had with her leaves me with more purpose and confidence. From the very first time I spoke with her, I felt mutual understanding and connecting. It just flows so effortlessly. And I’ve witnessed her be able to do this with just about everyone she meets. 
@@ -25,7 +27,8 @@ Her coaching style feels safe, human and authentic. This woman just understands 
 
 {% include figure.html path="/assets/img/tall_cactus_icon.png" sizes="(min-width: 768px) 195px, 25vw" width="25%" class="style-img" alt="tall cactus logo" %}
 
-## From memoir writers … 
+<h2 style="color: #AE7D84;">From memoir writers …</h2> 
+
 "I had an idea about a book I wanted to write and sent my introduction to a friend who insisted I must continue writing and sharing my story. But where would I start? I knew nothing about writing a book. My friend introduced me to Emily. I sent her a few pages, and we scheduled a call. I was nervous. From our very first conversation I felt like Emily understood me. She saw my vision and made me feel comfortable and confident. She got it, and she got me. As most aspiring writers feel, or so I imagine, we believe we aren’t good enough, our stories have already been told and who are we kidding right? This was an internal battle I faced throughout my entire journey of completing my book. Emily kept me in the game. I sent her a few chapters at a time, and she’d share her comments, feedback and edits. When I was stuck, I’d call her. We’d brainstorm. She always kept me on track. She always reassured me my story was unique; my voice was authentic and that people would relate to what I had to say. When my confidence was low, she’d step in and inspire me to continue. I never would have finished my book without her guidance and support. Emily was also helpful when it came to deciding what to do next regarding publishing options. We worked together on a query letter, chapter summaries and author biography. She is well connected and understood what to do after my book was completed. Emily is a thoughtful, supportive nurturing soul that I am forever grateful that I was introduced to her. I could not have done this without her." - Jacqueline S. 
 
 
