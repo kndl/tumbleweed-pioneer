@@ -6,7 +6,7 @@ nav: true
 nav_order: 4
 ---
 
-# Contact
+<h1 style="color: #AE7D84;">Contact</h1> 
 
 Curious? [Schedule a 15-minute intro call](https://tumbleweedpioneer.as.me/?appointmentType=90118161). Ready? [Schedule an hour-long session](https://tumbleweedpioneer.as.me/?appointmentType=58915373).
 
