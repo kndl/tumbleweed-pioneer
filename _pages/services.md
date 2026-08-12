@@ -49,5 +49,5 @@ Fees fall into three broad categories:
 * By project: For books and larger collections or bodies of work
 * Communications coaching: Hourly or retainer fee for ongoing consultation
 
-<h4 style="color: #AE7D84;">References, writing samples, and pricing details available upon request. Contact: tumbleweedpioneer AT gmail DOT com </4>
+<h6 style="color: #AE7D84;">References, writing samples, and pricing details available upon request. Contact: tumbleweedpioneer AT gmail DOT com </h6>
 
